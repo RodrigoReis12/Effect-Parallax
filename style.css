@@ -41,17 +41,17 @@
 
 
 .london {
-    background-image: url('/img/london.jpg');
+    background-image: url('./img/london.jpg');
 }
 
 .amsterdan {
-    background-image: url('/img/amsterdan.jpg');
+    background-image: url('./img/amsterdan.jpg');
 }
 
 .berlim {
-    background-image: url('/img/berlim.jpeg');
+    background-image: url('./img/berlim.jpeg');
 }
 
 .saopaulo {
-    background-image: url('/img/saopaulo.jpg');
+    background-image: url('./img/saopaulo.jpg');
 }
