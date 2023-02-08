@@ -2,8 +2,8 @@
 
 # Effect-Parallax
 
-Projeto feito para treinar **HTML** e **CSS**.
+Project made to train parallax efect with **HTML** and **CSS**.
 
-## Link 
+## Link
 
 https://rodrigoreis12.github.io/Effect-Parallax/
